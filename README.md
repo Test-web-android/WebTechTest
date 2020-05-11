@@ -35,7 +35,7 @@ The Buff UI should look like this:
 
 ### A sample video of the Buffs showing on the current iOS version can be seen here:
 
-https://github.com/buffup/WebTechTest/blob/master/Buff.mov?raw=true
+https://github.com/Test-web-android/WebTechTest/blob/master/Buff.mov?raw=true
 
 
 
